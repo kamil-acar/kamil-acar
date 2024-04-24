@@ -1,4 +1,4 @@
-<img src="https://github.com/kamil-acar/kamil-acar/assets/143941037/79d6fd0a-3147-4f45-be44-106836d378dd" alt="frontend" width="100%"/>
+<img src="https://github.com/kamil-acar/kamil-acar/assets/143941037/79d6fd0a-3147-4f45-be44-106836d378dd" alt="frontend" width="90%"/>
 
 
 <h1 align="center">Hi 👋, I'm Kamil Acar</h1>
