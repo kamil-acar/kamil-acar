@@ -1,5 +1,5 @@
 <div style="text-align:center;">
-    <img src="https://github.com/kamil-acar/kamil-acar/assets/143941037/e881dd67-647c-4ea8-8076-623f44a0186c" alt="frontend" width="90%" />
+    <img src="https://github.com/kamil-acar/kamil-acar/assets/143941037/79d6fd0a-3147-4f45-be44-106836d378dd" alt="frontend" width="90%" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Kamil Acar</h1>
